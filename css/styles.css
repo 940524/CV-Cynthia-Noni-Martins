@@ -1,0 +1,72 @@
+body {
+   padding-left: 160px;
+   padding-right: 160px;
+}
+
+#container {
+   background-color: #3FBABA;
+   height: 280px;
+   position:relative;
+   top: 50px;
+   width: 100%;
+}
+
+h1, {
+ font-family: 'Calibri', sans-serif;
+ font-size: 2rem;
+ font-weight: normal;
+}
+
+h2 {
+color: #3FBABA;
+font-family: 'Calibri', sans-serif;
+font-size: 1.5rem;
+font-weight: normal;
+margin-top: 10px;
+margin-right: 10px;
+text-align: justify;
+}
+
+.master {
+  color: #fff;
+  font-family: 'Calibri', sans-serif;
+  font-weight: normal;
+}
+
+.profile {
+  left: 40px;
+  width: 200px;
+}
+
+.icones-dados {
+width: 22px;
+}
+
+.intro {
+border: 4px solid;
+border-color: #3FBABA;
+}
+
+.icones-corpo {
+  width: 40px;
+}
+
+ .apresentacao {
+  color: #575B5B;
+  font-family: 'Calibri', sans-serif;
+  font-weight: normal;
+  letter-spacing: 0.4px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: justify;
+}
+
+ .informacoes {
+  color: #575B5B;
+  font-family: 'Calibri', sans-serif;
+  font-weight: normal;
+  letter-spacing: 0.4px;
+  text-align: justify;
+}
+
+.
